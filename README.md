@@ -1,2 +1,4 @@
 # CloudApps4Rural
 While efficiency metrics (e.g., performance and energy) are certainly critical to gauge cloud systems, we must start to think about the societal implications of the web systems we build. We are exploring intersectionality, equity, and fairness as first-order web system design metrics. Specifically, instead of continuing to build web systems that serve the top 1% of the world's population, we are interested in building cloud systems for rural communities, starting with rural African communities (we are aiming for a real-world deployment in collaboration with CMU Africa). In this project, we will build a set of unique applications that serve rural communities (e.g., online farmer markets, distance education). We will also investigate in what capacity Machine Learning-based applications can play a role in servicing such rural communities.
+
+## Under Construction
