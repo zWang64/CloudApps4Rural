@@ -9,4 +9,4 @@ This application is aimed at being deployed at CMU-Africa, which will allow us t
 ## What we will do
 - Discuss the system design and clearly identify the requirements of each service.
 - Build the application alone with a local testing environment.
-- Explore the software and hardware implications of different types of services by analyzing profiling results
+- Explore the software and hardware implications of different types of services by analyzing profiling results.
